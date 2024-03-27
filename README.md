@@ -45,7 +45,7 @@ Cate 0 後的分類因為不固定，故不在此列出。 <br>
 
 |  Google Chrome  |
 |  ----  |
-|  目前 chromedriver 最高支援到 114 版本之瀏覽器<br/>，如果已經更新，可以選擇降級至較低版本  |
+|  請參考  https://chromedriver.chromium.org/downloads  所提供的 chrome driver 版本  |
 
 
 ## 開始使用
